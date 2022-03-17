@@ -6,11 +6,20 @@ contents
 
 ### Symbols
 
+* Adafruit Metro Mini
+* I40115 5V regulator
+* ID-12LA
+* SMM Mega Shield Connector
+* TPIC6A595NE power shift register
+
+
 ### Footprints
 
 * ID-12LA
 * Adafruit Metro Mini
 * Various SMM logo sizes
+* I50115 5V regulator
+* SMM standard terminal blocks
 
 setup
 -----
