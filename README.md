@@ -1,6 +1,17 @@
 SMM KiCad Library
 =================
 
+contents
+--------
+
+### Symbols
+
+### Footprints
+
+* ID-12LA
+* Adafruit Metro Mini
+* Various SMM logo sizes
+
 setup
 -----
 
